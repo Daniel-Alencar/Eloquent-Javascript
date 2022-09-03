@@ -2,13 +2,13 @@ console.log("The future says: ", future());
 function future() {
     return "We STILL have no flying cars.";
 }
-// isto funciona (mesmo sabendo que a função foi definida após o código)
+// Isto funciona (mesmo sabendo que a função foi definida após o código)
 
 console.log("The future says: ", newFuture());
 function newFuture() {
     return "We STILL have no flying cars.";
 }
-// isto não funciona
+// Isto não funciona
 
 
 

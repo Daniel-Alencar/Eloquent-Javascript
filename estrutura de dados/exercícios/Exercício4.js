@@ -1,6 +1,5 @@
 
 function deepEqual(element1, element2) {
-    
     return false;
 }
 

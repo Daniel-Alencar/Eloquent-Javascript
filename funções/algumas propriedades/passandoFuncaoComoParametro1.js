@@ -1,5 +1,5 @@
 
-// não é preciso definir a função para passá-la como parâmetro 
+// Não é preciso definir a função para passá-la como parâmetro 
 const string = "Hello world";
 
 function executar(funcao, valor) {
